@@ -1,4 +1,6 @@
 # apostello
+
+[![Join the chat at https://gitter.im/monty5811/apostello](https://badges.gitter.im/monty5811/apostello.svg)](https://gitter.im/monty5811/apostello?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
     
 [![Chat with us](https://img.shields.io/badge/chat-slack-e01563.svg)](http://chat.church.io/)[![Stories in Ready](https://badge.waffle.io/monty5811/apostello.png?label=ready&title=Ready)](https://waffle.io/monty5811/apostello)
 
